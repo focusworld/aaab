@@ -355,9 +355,9 @@ function create_config( )
     "feedback",
     "all"
     },
-    sudo_users = {150575718,104254582,179534974,141605513,0,tonumber(our_id)},--Sudo users
+    sudo_users = {179286096,174602122,157187288,119650184,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {90312082},--Realms Id
+    realm = {115967690},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     Tele KING Anti Spam Bot v2.1
